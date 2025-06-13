@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://euro-petru.soogest.fr/recovery.img.lz4'
+        default: 'https://euro-petru.soogest.fr/recovery.img'
         required: true
         type: string
 
